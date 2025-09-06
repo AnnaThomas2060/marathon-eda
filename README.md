@@ -1,5 +1,5 @@
 # EDA on ultra-marathon running dataset
-Exploratory Data Analysis (EDA) on marathon data to uncover insights on athlete performance by race type, gender, age, and season.
+Exploratory Data Analysis (EDA) on marathon data to get insights on athlete performance by race type, gender, age, and season.
 
 ## Dataset used
 
