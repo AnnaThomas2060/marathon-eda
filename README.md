@@ -3,7 +3,7 @@ Exploratory Data Analysis (EDA) on marathon data to get insights on athlete perf
 
 ## Dataset used
 
-[The big dataset of ultra-marathon running](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running)
+<a href="https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running" target="_blank">The big dataset of ultra-marathon running</a>
 
 ## Key Questions Explored
 
