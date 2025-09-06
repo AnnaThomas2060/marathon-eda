@@ -1,7 +1,7 @@
-# EDA on ultra-marathon running dataset
+# EDA on an ultra-marathon running dataset
 Exploratory Data Analysis (EDA) on marathon data to get insights on athlete performance by race type, gender, age, and season.
 
-## Dataset used
+## Dataset Used
 
 <a href="https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running" target="_blank">The big dataset of ultra-marathon running</a>
 
